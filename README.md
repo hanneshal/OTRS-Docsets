@@ -14,7 +14,7 @@ This Docsets include all major OTRS versions.
 ### Usage ###
 
 * Download DASH via [Mac Appstore](https://itunes.apple.com/de/app/dash-docs-snippets/id458034879?mt=12)
-* Checkout this repo
+* Checkout this repo or download the release package [Release](https://github.com/hanneshal/OTRS-Docsets/releases/)
 * Install Docset via double click on the desired Docset
 
 #### Docset overview
