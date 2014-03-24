@@ -7,9 +7,12 @@ This Docsets include all major OTRS versions.
 
 * OTRS 2.4.15
 * OTRS 3.0.22 
-* OTRS 3.1.18 
-* OTRS 3.2.12
-* OTRS 3.3.1 
+* OTRS 3.1.20 
+* OTRS 3.2.15
+* OTRS 3.3.5
+
+FAQ
+* OTRS FAQ 2.3.1 
 
 ### Usage ###
 
