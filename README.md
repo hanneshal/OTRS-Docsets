@@ -31,4 +31,4 @@ FAQ
 
 ###Info
 
-Made with a extended version of [alecchen's](https://github.com/alecchen/perl_docset) perl docset creator.
+Made with an extended version of [alecchen's](https://github.com/alecchen/perl_docset) perl docset creator.
