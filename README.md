@@ -6,16 +6,15 @@ OTRS Docsets
 This Docsets include all major OTRS versions.
 
 * OTRS 2.4.15
-* OTRS 3.0.22 
-* OTRS 3.1.20 
+* OTRS 3.0.22
+* OTRS 3.1.20
 * OTRS 3.2.15
-* OTRS (latest 3.3.9) 
-* OTRS 4.0 Beta 3
-* OTRS GIT (Master - 16.10.2014)
+* OTRS 3(latest 3.3.11)
+* OTRS (latest 4.0.5)
 
 FAQ
 * OTRS FAQ 2.3.3
-* OTRS FAQ 3.3.91 
+* OTRS FAQ 3.3.91
 
 ### Usage ###
 
