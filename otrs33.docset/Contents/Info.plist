@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-<string>otrs33</string>  <key>CFBundleName</key>
-<string>otrs33</string>	<key>DocSetPlatformFamily</key>
-<string>otrs33</string>        <key>dashIndexFilePath</key>
+<string>OTRSs/otrs33.docset</string>  <key>CFBundleName</key>
+<string>OTRSs/otrs33.docset</string>	<key>DocSetPlatformFamily</key>
+<string>OTRSs/otrs33.docset</string>        <key>dashIndexFilePath</key>
         <string>index.html</string>
 	<key>isDashDocset</key>
 	<true/>
