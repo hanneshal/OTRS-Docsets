@@ -10,15 +10,16 @@ This Docsets include all major OTRS versions.
 * OTRS 3.1.20
 * OTRS 3.2.18
 * OTRS 3(latest 3.3.15)
-* OTRS (latest 4.0.13)
+* OTRS 4(latest 4.0.16)
+* OTRS 5(latest 5.0.8)
 
 FAQ
-* OTRS FAQ 4.0.1
+* OTRS FAQ latest
 
 ### Usage ###
 
 * Download DASH via [Mac Appstore](https://itunes.apple.com/de/app/dash-docs-snippets/id458034879?mt=12)
-* Checkout this repo or download the release package [Release](https://github.com/hanneshal/OTRS-Docsets/releases/)
+* Checkout this repo
 * Install Docset via double click on the desired Docset
 
 #### Docset overview
