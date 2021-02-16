@@ -9,16 +9,26 @@ This Docsets include all major OTRS versions.
 * OTRS 3.0.22
 * OTRS 3.1.20
 * OTRS 3.2.18
-* OTRS 3(latest 3.3.15)
-* OTRS 4(latest 4.0.16)
-* OTRS 5(latest 5.0.8)
+* OTRS 3.3
+* OTRS 4
+* OTRS 5
+* OTRS 6 / Znuny (latest 6.0.32)
 
-FAQ
-* OTRS FAQ latest
+* FAQ latest
+* ITSM
+* ITSMCore
+* ITSMChangeManagement
+* ITSMServiceLevelManagement
+* ITSMConfigurationManagement
+* Import Export
 
 ### Usage ###
 
-* Download DASH via [Mac Appstore](https://itunes.apple.com/de/app/dash-docs-snippets/id458034879?mt=12)
+* Download DASH via [https://kapeli.com/dash](https://kapeli.com/dash)
+* Search in User Docsets and install the docsets you need
+
+OR 
+
 * Checkout this repo
 * Install Docset via double click on the desired Docset
 
@@ -29,5 +39,4 @@ FAQ
 
 
 ###Info
-
 Made with an extended version of [alecchen's](https://github.com/alecchen/perl_docset) perl docset creator.
